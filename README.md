@@ -139,4 +139,4 @@ Add images and other contents using CSS record a screenshot of it.
 ### Validation:
 ![valid](bkcover/static/images/validation.jpg)
 ## Result:
-Write your result
+Thus a website to display the cover page design of a book was successfully created.
